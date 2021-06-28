@@ -1,12 +1,10 @@
 # Gangala_Testing
 
-To install all the dependies required to this code:
+To install all the dependencies required to this code:
 
 ```
 pip install -r requirements.txt 
 ```
-
-
 
 
 
