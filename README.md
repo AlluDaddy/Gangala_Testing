@@ -2,7 +2,7 @@
 
 To install all the dependencies required to this code:
 
-```
+``` 
 pip install -r requirements.txt 
 ```
 
@@ -17,6 +17,20 @@ Go to Settings in chrome -> click on About chrome
 
 ![alt text](https://github.com/AlluDaddy/Gangala_Testing/blob/main/image.png?raw=true)
 
-Install the corresponding chromedriver version from chrome and paste the path in Path variable.
+To install the Chrome driver:
 
-### Path = "D:\Download(D)\chromedriver_win32 (1)\chromedriver.exe"
+open: https://chromedriver.chromium.org/downloads
+
+Click on the corresponding CHROMEDRIVER as per the version of chrome.
+
+![image](https://user-images.githubusercontent.com/60499478/123657865-d35bf580-d84e-11eb-87de-48883f889b0a.png)
+
+Click on the corresponding link as per the software.
+
+![image](https://user-images.githubusercontent.com/60499478/123658411-52e9c480-d84f-11eb-87f4-ec3b9365fd41.png)
+
+After the downloading, copy the filepath and paste it at path variable.
+
+Example:  Path = "D:\Download(D)\chromedriver_win32 (1)\chromedriver.exe".
+
+
