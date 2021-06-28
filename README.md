@@ -29,7 +29,7 @@ Click on the corresponding link as per the software.
 
 ![image](https://user-images.githubusercontent.com/60499478/123658411-52e9c480-d84f-11eb-87f4-ec3b9365fd41.png)
 
-After the downloading, copy the filepath and paste it at path variable.
+After the downloading, copy the filepath and paste it in path variable (maintest.py file).
 
 Example:  Path = "D:\Download(D)\chromedriver_win32 (1)\chromedriver.exe".
 
