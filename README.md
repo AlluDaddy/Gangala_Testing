@@ -32,6 +32,10 @@ After the downloading, copy the filepath and paste it in path variable (maintest
 
 Example:  Path = "D:\Download(D)\chromedriver_win32 (1)\chromedriver.exe".
 
+
+After the modifications, excute the code.
+
+
 # LINUX
 
 To install all the dependencies required to this code:
@@ -74,10 +78,14 @@ To re-check the path of chromedriver:
 whereis chromedriver
 ```
 
-In Linux, no need to mention the path of the chromedriver in the code. 
+In Linux, no need to mention the path of the chromedriver in the code.
+
+So, remove the path variable and re-write the code as per below.
 
 ![image](https://user-images.githubusercontent.com/60499478/123985654-472f0700-d9e3-11eb-8de7-70a61402b013.png)
 
+
+After the modifications, excute the code.
 
 
 
