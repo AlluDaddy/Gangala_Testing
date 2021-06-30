@@ -1,7 +1,6 @@
 # Gangala_Testing
-
+# Windows
 To install all the dependencies required to this code:
-
 ``` 
 pip install -r requirements.txt 
 ```
