@@ -62,6 +62,7 @@ Click on the corresponding link as per the software.
 
 ![image](https://user-images.githubusercontent.com/60499478/123658411-52e9c480-d84f-11eb-87f4-ec3b9365fd41.png)
 
+After the completion of downloading,
 Go to chromedriver path and run this command
 
 ```
