@@ -68,6 +68,13 @@ Go to chromedriver path and run this command
 sudo mv chromedriver /usr/bin/chromedriver
 ```
 
+To re-check the path of chromedriver:
+```
+whereis chromedriver
+```
+
+In Linux, no need to mention the path of the chromedriver in the code. 
+
 ![image](https://user-images.githubusercontent.com/60499478/123985654-472f0700-d9e3-11eb-8de7-70a61402b013.png)
 
 
